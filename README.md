@@ -12,7 +12,7 @@ This project is a packet sniffer tool that captures and analyzes network packets
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/packet-sniffer.git
+    git clone https://github.com/mohdtarique909/Packer-Sinffer.git
     cd packet-sniffer
     ```
 
